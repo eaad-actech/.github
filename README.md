@@ -1,4 +1,4 @@
-# .github
+# ACTech Hub
 
 At the School of Architecture, Art and Design of the University of Minho we recognise the need of bridging the gap between Architecture, Construction and Technology, and stimulating the inventive and creative work of professionals interested in the recent advances in those fields. 
 The Architecture, Construction and Technology Hub — ACTech Hub — brings together a group of academics, experts, practitioners and researchers committed with the cooperation in this process and with exploring together new concepts, applications and challenges. 
