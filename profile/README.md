@@ -7,7 +7,6 @@ The mission of ACTech Hub is to drive the convergence of Architecture, Construct
 
 ## Links
 https://actech.uminho.pt
-## Hi there 👋
 
 <!--
 
